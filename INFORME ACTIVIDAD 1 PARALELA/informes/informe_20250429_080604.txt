@@ -1,0 +1,8 @@
+Informe de Ejecución
+Fecha: 2025-04-29 08:06:04
+Tiempo suma secuencial: 0.00200 segundos
+Tiempo suma SIMD (SSE): 0.00100 segundos
+Aceleración obtenida: 2.00x
+
+Gráfico de Tiempos (Secuencial vs SIMD):
+Se ha generado una imagen gráfica en: C:\Users\adria\Documents\GitHub\COMPUTACION-PARALELA\INFORME ACTIVIDAD 1 PARALELA\grafica_tiempos.png
